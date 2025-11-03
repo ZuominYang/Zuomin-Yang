@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"  # 可改为 "air" 以获得另一种风格
-title                    : "Dr. Zuomin Yang / Academic Homepage"
+title                    : "Zuomin Yang / Academic Homepage"
 title_separator          : "-"
 name                     : &name "Zuomin Yang"
 description              : &description "Dr. Zuomin Yang's academic homepage and research portfolio"
@@ -24,9 +24,9 @@ repository               : "zuominyang/zuominyang.github.io/resume/"
 author:
   # Biographic information
   avatar           : "ZUOMIN.png"
-  name             : "Dr. Zuomin Yang"
+  name             : "Zuomin Yang"
   pronouns         : # example: "he"  
-  bio              : "PhD candidate in Electrical Engineering, University of Malaya. Research in Computer Vision, Spiking Neural Networks, Continual Learning, Intelligent Systems and Autonomous Driving."
+  bio              : "PhD candidate in Electrical Engineering, University of Malaya. Research in Computer Vision, Continual Learning and Intelligent Systems."
   location         : "Kuala Lumpur, Malaysia"
   employer         : "PhD candidate, University of Malaya"
   uri              : "https://www.linkedin.com/in/zuomin-yang-423ab4304/"
