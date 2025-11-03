@@ -54,7 +54,7 @@ author:
   # keybase          : # Username
   # instagram        : # Username
   # lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/zuomin-yang-423ab4304/"
+  linkedin         : zuomin-yang-423ab4304
   # mastodon         : # URL
   # medium           : # URL
   # pinterest        : # Username
@@ -131,7 +131,7 @@ yandex_site_verification :
 #   username               :
 #   app_id                 :
 #   publisher              :
-linkedin         : "https://www.linkedin.com/in/zuomin-yang-423ab4304/"
+linkedin         : zuomin-yang-423ab4304
 og_image                 :  # Social media default site image
 og_description           :  # Social media default site image description
 # For specifying social profiles
@@ -139,7 +139,7 @@ og_description           :  # Social media default site image description
 social:
   type                   : Person
   name                   : Zuomin Yang
-  links: "https://www.linkedin.com/in/zuomin-yang-423ab4304/"
+  links: https://www.linkedin.com/in/zuomin-yang-423ab4304/
 
 
 # Analytics
