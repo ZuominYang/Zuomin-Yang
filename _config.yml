@@ -15,7 +15,7 @@ name                     : &name "Zuomin Yang"
 description              : &description "Dr. Zuomin Yang's academic homepage and research portfolio"
 url                      : https://zuominyang.github.io/
 baseurl                  : ""
-repository               : "zuominyang/zuominyang.github.io/"
+repository               : "zuominyang/zuominyang.github.io"
 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -140,7 +140,7 @@ social:
   type                   : Person
   name                   : Zuomin Yang
   links: 
-     - "https://www.linkedin.com/in/zuomin-yang-423ab4304/"
+     - "https://zuominyang.github.io"
 
 
 # Analytics
