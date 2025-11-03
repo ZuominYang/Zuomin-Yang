@@ -13,9 +13,9 @@ title                    : "Dr. Zuomin Yang / Academic Homepage"
 title_separator          : "-"
 name                     : &name "Zuomin Yang"
 description              : &description "Dr. Zuomin Yang's academic homepage and research portfolio"
-url                      : https://zuominyang.github.io
+url                      : https://zuominyang.github.io/resume/
 baseurl                  : ""
-repository               : "zuominyang/zuominyang.github.io"
+repository               : "zuominyang/zuominyang.github.io/resume/"
 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -23,10 +23,10 @@ repository               : "zuominyang/zuominyang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ZUOMIN.jpg"
+  avatar           : "ZUOMIN.png"
   name             : "Dr. Zuomin Yang"
   pronouns         : # example: "he"  
-  bio              : "PhD in Electrical Engineering, University of Malaya. Research in Computer Vision, Spiking Neural Networks, and Autonomous Driving."
+  bio              : "PhD candidate in Electrical Engineering, University of Malaya. Research in Computer Vision, Spiking Neural Networks, Continual Learning, Intelligent Systems and Autonomous Driving."
   location         : "Kuala Lumpur, Malaysia"
   employer         : "PhD candidate, University of Malaya"
   uri              : "https://www.linkedin.com/in/zuomin-yang-423ab4304/"
