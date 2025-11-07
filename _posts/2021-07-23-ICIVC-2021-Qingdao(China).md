@@ -1,6 +1,6 @@
 ---
 title: "2021 6th International Conference on Image, Vision and Computing (ICIVC 2021)"
-date: 2021-03-26
+date: 2021-07-23
 #permalink: /blog/aiact-2021/
 image: zuominyang.github.io/images/ICIVC.jpg
 ---
